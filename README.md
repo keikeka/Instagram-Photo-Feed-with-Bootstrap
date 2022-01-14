@@ -1,26 +1,27 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# Instagram Photo Feed with Bootstrap
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+> By Keili Rosales
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+## Objective
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+This exercise consists of replicating the Instagram Feed with its respective posts proposed by Breathecode, using Bootstrap components and icons in HTML and CSS files created from scratch.
 
-## What to do next?
+It represents a very practical exercise to start working with the Bootstrap library.
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+## Application
 
-```sh
-$ pip3 install flask && python3 server.py
-```
+1. Run the project using: `pip3 install flask && python3 server.py`.
+2. And check the preview of the post.
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+## Technologies
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+- HTML5
+- CSS3
+- Bootstrap
+- Bootstrap Icons
+
+## Contributions
+
+I'd love to get your appreciation or report on the code at https://github.com/keikeka/Instagram-Photo-Feed-with-Bootstrap
+
+Thank you very much!

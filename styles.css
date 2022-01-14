@@ -1,0 +1,42 @@
+/* Styles Navbar */
+
+.navbar-brand img {
+    max-width: 150px;
+    max-height: 150px;
+} 
+
+.navbar{   
+    margin: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.input-newpost{
+    display: flex;
+}
+
+/* Style feed */
+
+.colorTab {
+    color: #b5b5b5;    
+}
+
+.img-feed {
+    height: 100%;
+    width: 100%;    
+}
+
+/* Styles posts */
+
+.posts{
+    background-color: #e4e4e4;    
+}
+
+.card {
+    margin-top: 5%;    
+}
+
+.post-comment {
+    height: 10px;
+    width: 100%;
+}
